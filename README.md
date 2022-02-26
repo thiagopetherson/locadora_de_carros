@@ -4,6 +4,8 @@
 
 Projeto de um sistema de uma locadora de carros (para fins didáticos) onde é priorizado a utilização do Laravel em conjunto de VueJS, através do Laravel Mix. São utilizadas diversas libs e ferramentas do Laravel como JWT e Storage. Também são utilizadas ferramentas do VueJS como Axios para requisições e Vuex para controle de estados. Também é utilizado Bootstrap para layout e CSS.
 
+OBS: O foco da aplicação foi a parte do crud de "Marcas".
+
 ![image](https://user-images.githubusercontent.com/44420212/155853521-1e124358-f0b0-4582-8665-38d17280190a.png)
 
 
